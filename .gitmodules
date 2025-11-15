@@ -1,0 +1,3 @@
+[submodule "Scene-Recognition-with-Bag-of-Words"]
+	path = Scene-Recognition-with-Bag-of-Words
+	url = git@github.com:joelibaceta/Scene-Recognition-with-Bag-of-Words.git
