@@ -7,3 +7,7 @@ scipy
 pillow
 ipykernel
 jupyter
+seaborn
+
+git+https://github.com/joelibaceta/pySURF.git
+git+https://github.com/joelibaceta/pyBRIEF.git
