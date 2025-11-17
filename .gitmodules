@@ -1,3 +1,9 @@
 [submodule "Scene-Recognition-with-Bag-of-Words"]
 	path = Scene-Recognition-with-Bag-of-Words
 	url = git@github.com:joelibaceta/Scene-Recognition-with-Bag-of-Words.git
+[submodule "pySURF"]
+	path = pySURF
+	url = https://github.com/joelibaceta/pySURF
+[submodule "pyBRIEF"]
+	path = pyBRIEF
+	url = git@github.com:joelibaceta/pyBRIEF.git
