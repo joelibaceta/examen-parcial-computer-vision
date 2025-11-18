@@ -9,5 +9,6 @@ ipykernel
 jupyter
 seaborn
 
-git+file://./pySURF
-git+file://./pyBRIEF
+
+-e ./pySURF
+-e ./pyBRIEF
