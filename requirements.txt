@@ -8,7 +8,7 @@ pillow
 ipykernel
 jupyter
 seaborn
-
+scikit
 
 -e ./pySURF
 -e ./pyBRIEF
